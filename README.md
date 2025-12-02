@@ -91,11 +91,11 @@ Project me 100% **Java Swing** ka use kiya gaya hai, jisme **realistic alarm app
   <tr>
     <td>
       <p align="center">Main Alarm Window</p>
-      <img src="https://github.com/user-attachments/assets/3851877e-982e-4291-811d-32172f777289" width="300">
+      <img src="https://github.com/user-attachments/assets/3851877e-982e-4291-811d-32172f777289" width="200">
     </td>
     <td>
       <p align="center">Set Alarm Window</p>
-      <img src="https://github.com/user-attachments/assets/b9bedfcd-26df-40ca-aaee-7ef458ba9943" width="300">
+      <img src="https://github.com/user-attachments/assets/b9bedfcd-26df-40ca-aaee-7ef458ba9943" width="200">
     </td>
   </tr>
 </table>
